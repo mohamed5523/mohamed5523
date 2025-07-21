@@ -59,8 +59,8 @@ Here are some of my key projects:
 
 * Machine Learning (Andrew Ng, Coursera)
 * Deep Learning (MIT)
-* Udacity Computer Vision Nanodegree (2023)
-* Udacity Data Science Nanodegree (2024)
+* Udacity Data Science Nanodegree
+* Udacity Computer Vision Nanodegree  
 * Learning MLOps (Andrew Ng, Coursera)
 * Soft Skills (Cambridge University)
 
