@@ -1,16 +1,99 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**mohamed5523/mohamed5523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to Mohammed Radwan’s AI Portfolio! 🚀
 
-Here are some ideas to get you started:
+This repository showcases my journey as an **Artificial Intelligence Engineer**, highlighting projects in **Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Computer Vision**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about building intelligent systems that solve real-world problems, from **autonomous vehicles** to **healthcare AI solutions**.
+
+---
+
+## 🧑‍💻 About Me
+
+I am a **BSc graduate in Artificial Intelligence** (Kafr El Sheikh University, 2023, GPA 3.5) with **2+ year of professional AI engineering experience**.
+
+I’ve worked as:
+
+* **AI Engineer in the Military (2024 – present)**
+* **Freelance AI Engineer (2022 – 2024)**
+* **AI Instructor Online (2023 – 2024)**
+* **English Teacher (2019 – 2024)**
+
+My **graduation project** was an **Autonomous Underwater Vehicle (AUV)** for detecting and extracting dead bodies, showcasing my ability to combine AI with robotics.
+
+I’m actively seeking **Junior AI Engineer roles** to apply my expertise in ML, DL, NLP, and AI-driven automation.
+
+---
+
+## 🚀 Highlighted Projects
+
+Here are some of my key projects:
+
+1. **Autonomous Underwater Vehicle (AUV)**
+
+   * Detect and extract dead bodies underwater using AI vision systems.
+
+2. **Tumor Detection System** *(Master’s level project)*
+
+   * Classify liver images (normal/tumor) and detect tumor regions using DL & ML algorithms.
+
+3. **CBCS AI System (Cow Body Condition Scoring)**
+
+   * Automated scoring of dairy cattle body condition using Deep Neural Networks.
+
+4. **Arabic Speech Recognition (ASR) System**
+
+   * Enhance and transcribe HF Arabic signals using Whisper & DL models.
+
+5. **Time Series Analysis with SARIMAX**
+
+   * Forecasting time-series data using SARIMAX models.
+
+---
+
+## 🎓 Education & Certifications
+
+* **BSc in Artificial Intelligence**, One of the first graduates from the Faculty of Artificial Intelligence at Kafr El Sheikh University  (2023)
+
+  * GPA 3.5 (B+)
+
+**Key Courses & Certifications**
+
+* Machine Learning (Andrew Ng, Coursera)
+* Deep Learning (MIT)
+* Udacity Computer Vision Nanodegree (2023)
+* Udacity Data Science Nanodegree (2024)
+* Learning MLOps (Andrew Ng, Coursera)
+* Soft Skills (Cambridge University)
+
+---
+
+## 🛠 Skills
+
+### Some of my Technical Skills
+
+* **Programming:** Python 🐍
+* **Frameworks:** PyTorch, TensorFlow
+* **AI Expertise:** ML, DL, NLP, Computer Vision
+* **Data Handling:** Data Preprocessing, Feature Engineering
+
+### Some of my Soft Skills
+
+* Communication 💬 | Collaboration 🤝 | Time Management ⏰
+* Problem Solving 🧩 | Critical Thinking 🧠
+
+### Languages
+
+* **Arabic:** Native
+* **English:** Very Good
+* **French:** Good
+
+---
+
+## 📬 Let’s Connect
+
+* **Email:** [moradwan5523@gmail.com](mailto:moradwan5523@gmail.com)
+* **LinkedIn:** [linkedin.com/in/mohamed-radwan-7b1a78264](https://www.linkedin.com/in/mohamed-radwan-7b1a78264)
+* **GitHub:** [github.com/mohamed55223](https://github.com/mohamed5523)
+
+I’m open to collaborations, AI projects, and new opportunities. Let’s create impactful AI solutions together! 🚀
