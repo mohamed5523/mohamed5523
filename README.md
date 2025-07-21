@@ -21,7 +21,7 @@ I’ve worked as:
 
 My **graduation project** was an **Autonomous Underwater Vehicle (AUV)** for detecting and extracting dead bodies, showcasing my ability to combine AI with robotics.
 
-I’m actively seeking **Junior AI Engineer roles** to apply my expertise in ML, DL, NLP, and AI-driven automation.
+I’m actively seeking **Junior or Mid-level AI Engineer roles** to apply my expertise in ML, DL, NLP, and AI-driven automation.
 
 ---
 
