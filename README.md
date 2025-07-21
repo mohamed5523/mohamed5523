@@ -2,9 +2,7 @@
 
 # Welcome to Mohammed Radwan’s AI Portfolio! 🚀
 
-This repository showcases my journey as an **Artificial Intelligence Engineer**, highlighting projects in **Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Computer Vision**.
-
-I’m passionate about building intelligent systems that solve real-world problems, from **autonomous vehicles** to **healthcare AI solutions**.
+This repository showcases my journey as an **Artificial Intelligence Engineer**, highlighting projects in **Machine Learning (ML), Deep Learning (DL), More than Basic (NLP), and Computer Vision**.
 
 ---
 
@@ -19,7 +17,7 @@ I’ve worked as:
 * **AI Instructor Online (2023 – 2024)**
 * **English Teacher (2019 – 2024)**
 
-My **graduation project** was an **Autonomous Underwater Vehicle (AUV)** for detecting and extracting dead bodies, showcasing my ability to combine AI with robotics.
+My **graduation project** was an **Autonomous Underwater Vehicle (AUV)** for detecting and extracting dead bodies, showcasing my ability to combine AI with real-world problems.
 
 I’m actively seeking **Junior or Mid-level AI Engineer roles** to apply my expertise in ML, DL, NLP, and AI-driven automation.
 
@@ -73,8 +71,8 @@ Here are some of my key projects:
 ### Some of my Technical Skills
 
 * **Programming:** Python 🐍
-* **Frameworks:** PyTorch, TensorFlow
-* **AI Expertise:** ML, DL, NLP, Computer Vision
+* **Frameworks:** PyTorch, Mid-level TensorFlow
+* **AI Expertise:** ML, DL, Computer Vision
 * **Data Handling:** Data Preprocessing, Feature Engineering
 
 ### Some of my Soft Skills
