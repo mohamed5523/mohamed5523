@@ -31,21 +31,23 @@ Here are some of my key projects:
 
    * Detect and extract dead bodies underwater using AI vision systems.
 
-2. **Tumor Detection System** *(Master’s level project)*
+2. **Arabic Audio Preprocessing and Feature Extraction**
+
+   * Arabic Audio Preprocessing: Denoising, VAD, Diarization, and Feature Extraction 
+
+3. **Tumor Detection System** *(Master’s level project)*
 
    * Classify liver images (normal/tumor) and detect tumor regions using DL & ML algorithms.
 
-3. **CBCS AI System (Cow Body Condition Scoring)**
+4. **CBCS AI System (Cow Body Condition Scoring)**
 
    * Automated scoring of dairy cattle body condition using Deep Neural Networks.
 
-4. **Arabic Speech Recognition (ASR) System**
+5. **Arabic Speech Recognition (ASR) System**
 
    * Enhance and transcribe HF Arabic signals using Whisper & DL models.
 
-5. **Time Series Analysis with SARIMAX**
 
-   * Forecasting time-series data using SARIMAX models.
 
 ---
 
